@@ -18,7 +18,7 @@ This small sinple project demonstrates a real-time data pipeline using Apache Ka
    ![MongoDB Dashboard](charts.png)
 
 
-   If you want to see real time video of the project click on the link -> [Linkedin Video]()
+   If you want to see real time video of the project click on the link -> [Linkedin Video](https://www.linkedin.com/posts/rahul-mondal08_dataengineering-kafka-mongodb-activity-7366216656273985536-Se_F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7SvPEBnRDCQRQtqP9ijHIkwsG9Z5eecsA)
    
 
 
